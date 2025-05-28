@@ -1,4 +1,4 @@
 # polite-speech-in-human-and-llms
-Repo for the project on polite language production in humans and LLMs
+Repo for cogsci 2025 "Polite Speech Generation in Humans and Language Models" and  "Comparing human and LLM politeness strategies in free production"
 
-## Code and data will be released soon - approx in June!
+
