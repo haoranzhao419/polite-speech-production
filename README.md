@@ -7,8 +7,14 @@ For the data collection:
 
 - I will need:
   - code and data to get LLM multi-choice responses;
-  - code to get LLM free-responses
-  - code to get LLM annotation results
+  - code and data to get LLM free-responses
+  - code and data to get LLM annotation results
+
+ I will also need all the code files for processing and figure generation.
+
+ I will also need a requirement.txt file
+
+ I will also need to write this readme file in a nice way
 
 
 
